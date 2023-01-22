@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakthii_98" target="blank"><img src="https://img.shields.io/twitter/follow/shakthii_98?logo=twitter&style=for-the-badge" alt="shakthii_98" /></a> </p>
 
-- 🌱 I’m currently learning **Machhine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **arunashakthi002@gmail.com**
 
